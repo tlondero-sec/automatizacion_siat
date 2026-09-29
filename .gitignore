@@ -1,0 +1,11 @@
+# Descargas y evidencias temporales
+boletas_descargadas/
+capturas/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
