@@ -8,7 +8,7 @@ Soporta la consulta automatizada de múltiples inmuebles registrados en un archi
 
 ## 🚀 Características
 
-- **Consulta Multiproiedad**: Lee las partidas catastrales y códigos de gestión directamente desde `propiedades.json`.
+- **Consulta Multipropiedad**: Lee las partidas catastrales y códigos de gestión directamente desde `propiedades.json`.
 - **Soporte Multitasa**: Verifica automáticamente **TGI** y **TSS** por cada propiedad en una sola ejecución.
 - **Detección y Alerta de Deuda**: Compara el importe total en el sistema contra el período actual para detectar saldos pendientes o deuda acumulada.
 - **Descarga y Renombrado Automático**: Procesa el flujo completo de reconfección en el portal SIAT (`AdministrarLiqReconfeccion.do`), descarga la boleta en PDF y la renombra con la nomenclatura: `[ID_PROPIEDAD]_[TASA]_[PERIODO].pdf`.
